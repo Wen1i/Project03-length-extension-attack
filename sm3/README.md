@@ -9,4 +9,4 @@ SM3长度扩展攻击<br>
 
 ## 运行结果
 攻击成功
-![img.png](img.png)
+![image](https://user-images.githubusercontent.com/104118101/181464505-33bd00ca-4650-4669-8dd3-122d546da7a1.png)
