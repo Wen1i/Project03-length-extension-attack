@@ -6,6 +6,9 @@ SM3长度扩展攻击<br>
     2.在msg+padding之后附加一段消息,用原消息的hash值作为IV计算附加消息之后的hash值,得到消息扩展后的hash_attack<br>
     3.用sm3加密伪造后的整体消息，得到hash_extend<br>
     4.验证hash_attack 与 hash_extend 是否相等<br>
+## 运行指导
+
+运行文件sm3_length_extension.py
 
 ## 运行结果
 攻击成功
